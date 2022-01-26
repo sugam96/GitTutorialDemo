@@ -1,0 +1,5 @@
+This is V 1.0 of ProjectX
+Let's Modify this file to check Git can detect it or not?
+Changed again
+Bye
+Hello
